@@ -1,16 +1,16 @@
-# cimb_testcase
+## TestCase Cimb Niaga by Elmo Agusti
 
-A new Flutter project.
+Hello, I'm Elmo. This is the result of working on the questions sent by HR by following all the processes in the questions.
+# Demo Apps
 
-## Getting Started
+![](https://github.com/elmoagusti2/testcase_cimb/blob/main/screenshoots/demo.gif)
 
-This project is a starting point for a Flutter application.
+# Packages Used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Riverpod (state management required test)
+- Http
+- Equatable
+- Lottie
+- Flutter_animate
+- Shimmer
+- Like_button
