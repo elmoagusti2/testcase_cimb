@@ -1,9 +1,10 @@
 ## TestCase Cimb Niaga by Elmo Agusti
 
 Hello, I'm Elmo. This is the result of working on the questions sent by HR by following all the processes in the questions.
+
 # Demo Apps
 
-![](https://github.com/elmoagusti2/testcase_cimb/blob/main/screenshoots/demo.gif)
+<img src="https://github.com/elmoagusti2/testcase_cimb/blob/main/screenshoots/demo.gif" alt="Your Image Alt Text" width="200" height="100">
 
 # Packages Used
 
