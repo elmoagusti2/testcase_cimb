@@ -4,7 +4,7 @@ Hello, I'm Elmo. This is the result of working on the questions sent by HR by fo
 
 # Demo Apps
 
-<img src="https://github.com/elmoagusti2/testcase_cimb/blob/main/screenshoots/demo.gif" alt="Your Image Alt Text" width="200" height="100">
+<img src="https://github.com/elmoagusti2/testcase_cimb/blob/main/screenshoots/demo.gif" alt="Your Image Alt Text" width="300" height="500">
 
 # Packages Used
 
